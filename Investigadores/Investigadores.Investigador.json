@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "653ee080157ef9072b35b6ed"
+  },
+  "dni": "39976231",
+  "nom_apels": "Joan Carles Escobar",
+  "facultad": {
+    "$oid": "653edf15157ef9072b35b6ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee0ae157ef9072b35b6ee"
+  },
+  "dni": "65478912",
+  "nom_apels": "Adrian Chillon Sanchez",
+  "facultad": {
+    "$oid": "653edf26157ef9072b35b6eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee0cc157ef9072b35b6ef"
+  },
+  "dni": "78954236",
+  "nom_apels": "Alex Torres Martínez",
+  "facultad": {
+    "$oid": "653edf3b157ef9072b35b6ec"
+  }
+}]

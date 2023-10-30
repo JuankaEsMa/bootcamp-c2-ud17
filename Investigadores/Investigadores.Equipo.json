@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "653ee14f157ef9072b35b6f0"
+  },
+  "num_serie": "AAAA",
+  "nombre": "Equipo 1",
+  "facultad": {
+    "$oid": "653edf15157ef9072b35b6ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee163157ef9072b35b6f1"
+  },
+  "num_serie": "SDAE",
+  "nombre": "Equipo 2",
+  "facultad": {
+    "$oid": "653edf26157ef9072b35b6eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee174157ef9072b35b6f2"
+  },
+  "num_serie": "YSDW",
+  "nombre": "Equipo 3",
+  "facultad": {
+    "$oid": "653edf3b157ef9072b35b6ec"
+  }
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "653ee959157ef9072b35b6fc"
+  },
+  "cientifico": {
+    "$oid": "653ee7d3157ef9072b35b6f7"
+  },
+  "proyecto": {
+    "$oid": "653ee8d0157ef9072b35b6f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee99a157ef9072b35b6fd"
+  },
+  "cientifico": {
+    "$oid": "653ee7d3157ef9072b35b6f7"
+  },
+  "proyecto": {
+    "$oid": "653ee8e2157ef9072b35b6fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee9a9157ef9072b35b6fe"
+  },
+  "cientifico": {
+    "$oid": "653ee7e2157ef9072b35b6f8"
+  },
+  "proyecto": {
+    "$oid": "653ee8f4157ef9072b35b6fb"
+  }
+}]

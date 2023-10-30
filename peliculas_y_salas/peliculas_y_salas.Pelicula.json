@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "653ea90b157ef9072b35b6ba"
+  },
+  "Codigo": 1,
+  "Nombre": "El maquinista",
+  "Calificación de edad": 18
+},
+{
+  "_id": {
+    "$oid": "653eb93d157ef9072b35b6c4"
+  },
+  "Codigo": 2,
+  "Nombre": "The dark knight",
+  "Calificación de edad": 12
+},
+{
+  "_id": {
+    "$oid": "653eb952157ef9072b35b6c5"
+  },
+  "Codigo": 3,
+  "Nombre": "El pianista",
+  "Calificación de edad": 18
+}]

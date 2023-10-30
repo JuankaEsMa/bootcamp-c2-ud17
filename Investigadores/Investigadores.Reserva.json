@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "653ee2ed157ef9072b35b6f3"
+  },
+  "investigador": {
+    "$oid": "653ee080157ef9072b35b6ed"
+  },
+  "equipo": {
+    "$oid": "653ee14f157ef9072b35b6f0"
+  },
+  "comienzo": {
+    "$date": "2020-02-19T23:00:00.000Z"
+  },
+  "fin": {
+    "$date": "2021-02-19T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee3e6157ef9072b35b6f4"
+  },
+  "investigador": {
+    "$oid": "653ee0ae157ef9072b35b6ee"
+  },
+  "equipo": {
+    "$oid": "653ee163157ef9072b35b6f1"
+  },
+  "comienzo": {
+    "$date": "2020-03-09T23:00:00.000Z"
+  },
+  "fin": {
+    "$date": "2021-03-09T23:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ee401157ef9072b35b6f5"
+  },
+  "investigador": {
+    "$oid": "653ee0cc157ef9072b35b6ef"
+  },
+  "equipo": {
+    "$oid": "653edf3b157ef9072b35b6ec"
+  },
+  "comienzo": {
+    "$date": "2020-03-04T23:00:00.000Z"
+  },
+  "fin": {
+    "$date": "2021-03-04T23:00:00.000Z"
+  }
+}]

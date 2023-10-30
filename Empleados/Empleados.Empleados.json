@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "653ea536157ef9072b35b6b7"
+  },
+  "dni": "39976231",
+  "nombre": "Juan Carlos",
+  "apellidos": "Escobar Martínez",
+  "Departamento": {
+    "$oid": "653ea46d157ef9072b35b6b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ec7dd157ef9072b35b6d2"
+  },
+  "dni": "56871269",
+  "nombre": "Hakim",
+  "apellidos": "El Faizi Karabachi",
+  "Departamento": {
+    "$oid": "653ec19e157ef9072b35b6d0"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ec825157ef9072b35b6d3"
+  },
+  "dni": "26547893",
+  "nombre": "Adri",
+  "apellidos": "Chillón Sanchez",
+  "Departamento": {
+    "$oid": "653ec1da157ef9072b35b6d1"
+  }
+}]

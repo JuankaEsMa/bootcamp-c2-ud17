@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "653eae5a157ef9072b35b6bc"
+  },
+  "numero": 1,
+  "capacidad": 1
+},
+{
+  "_id": {
+    "$oid": "653eaf5a157ef9072b35b6be"
+  },
+  "numero": 2,
+  "capacidad": 2
+},
+{
+  "_id": {
+    "$oid": "653eaf65157ef9072b35b6bf"
+  },
+  "numero": 3,
+  "capacidad": 2
+},
+{
+  "_id": {
+    "$oid": "653eaf6a157ef9072b35b6c0"
+  },
+  "numero": 4,
+  "capacidad": 2
+}]

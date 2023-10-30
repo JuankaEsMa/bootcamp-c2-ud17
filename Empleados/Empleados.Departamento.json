@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "653ea46d157ef9072b35b6b6"
+  },
+  "Codigo": 1,
+  "Nombre": "Comercial",
+  "Presupuesto": "50000"
+},
+{
+  "_id": {
+    "$oid": "653ec19e157ef9072b35b6d0"
+  },
+  "Codigo": 2,
+  "Nombre": "Ventas",
+  "Presupuesto": 70000
+},
+{
+  "_id": {
+    "$oid": "653ec1da157ef9072b35b6d1"
+  },
+  "Codigo": 3,
+  "Nombre": "Marketing",
+  "Presupuesto": 80000
+}]

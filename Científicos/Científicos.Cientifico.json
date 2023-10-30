@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "653ee797157ef9072b35b6f6"
+  },
+  "dni": "39976231",
+  "nom_apels": "Joan Carles Escobar"
+},
+{
+  "_id": {
+    "$oid": "653ee7d3157ef9072b35b6f7"
+  },
+  "dni": "89765412",
+  "nom_apels": "Ainara Blanco Iza"
+},
+{
+  "_id": {
+    "$oid": "653ee7e2157ef9072b35b6f8"
+  },
+  "dni": "46587912",
+  "nom_apels": "Daniel Montblanc Brocoli"
+}]

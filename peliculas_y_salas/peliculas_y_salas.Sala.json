@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "653ea9a0157ef9072b35b6bb"
+  },
+  "Código": 1,
+  "Nombre": "Sala 1",
+  "Pelicula": {
+    "$oid": "653ea90b157ef9072b35b6ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "653eb9bc157ef9072b35b6c6"
+  },
+  "Código": 2,
+  "Nombre": "Sala 2",
+  "Pelicula": {
+    "$oid": "653eb93d157ef9072b35b6c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "653eb9e0157ef9072b35b6c7"
+  },
+  "Código": 3,
+  "Nombre": "Sala 3",
+  "Pelicula": {
+    "$oid": "653eb952157ef9072b35b6c5"
+  }
+}]

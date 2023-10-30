@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "653eaf33157ef9072b35b6bd"
+  },
+  "dni": "39976231",
+  "nom_apels": "Juan Carlos Escobar Martínez",
+  "DNIjefe": null,
+  "Despacho": {
+    "$oid": "653eae5a157ef9072b35b6bc"
+  }
+},
+{
+  "_id": {
+    "$oid": "653eafcb157ef9072b35b6c1"
+  },
+  "dni": "98756412",
+  "nom_apels": "Ainara Blanco Iza",
+  "jefe": {
+    "$oid": "653eaf33157ef9072b35b6bd"
+  },
+  "Despacho": {
+    "$oid": "653eae5a157ef9072b35b6bc"
+  }
+},
+{
+  "_id": {
+    "$oid": "653eb6d0157ef9072b35b6c2"
+  },
+  "dni": "78945612",
+  "nom_apels": "Daniel Brocoli Montblanc",
+  "jefe": null,
+  "Despacho": {
+    "$oid": "653eae5a157ef9072b35b6bc"
+  }
+},
+{
+  "_id": {
+    "$oid": "653eb7a3157ef9072b35b6c3"
+  },
+  "dni": 54678912,
+  "nom_apels": "Marc Pellicer",
+  "jefe": {
+    "$oid": "653eb6d0157ef9072b35b6c2"
+  },
+  "Despacho": {
+    "$oid": "653eaf5a157ef9072b35b6be"
+  }
+}]

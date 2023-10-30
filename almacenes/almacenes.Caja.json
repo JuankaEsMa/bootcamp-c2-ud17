@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "653ea86e157ef9072b35b6b9"
+  },
+  "num_referencia": "AAAAA",
+  "Contenido": "Langostas",
+  "Valor": 100,
+  "Almacen": {
+    "$oid": "653ea758157ef9072b35b6b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ebad1157ef9072b35b6ca"
+  },
+  "num_referencia": "ASDFY",
+  "Contenido": "Guaraná",
+  "Valor": 15,
+  "Almacen": {
+    "$oid": "653eba7b157ef9072b35b6c9"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ebb05157ef9072b35b6cb"
+  },
+  "num_referencia": "DSART",
+  "Contenido": "Platano",
+  "Valor": 2,
+  "Almacen": {
+    "$oid": "653eba50157ef9072b35b6c8"
+  }
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "653edaba157ef9072b35b6de"
+  },
+  "codigo": 1,
+  "nom_apels": "Joan Carles Escobar"
+},
+{
+  "_id": {
+    "$oid": "653edace157ef9072b35b6df"
+  },
+  "codigo": 2,
+  "nom_apels": "Adrian Chillón Sanchez"
+},
+{
+  "_id": {
+    "$oid": "653edae4157ef9072b35b6e0"
+  },
+  "codigo": 3,
+  "nom_apels": "Emilio García Montblanc"
+}]

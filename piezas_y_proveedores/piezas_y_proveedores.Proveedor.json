@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "653ecaec157ef9072b35b6d7"
+  },
+  "id": "AAAA",
+  "nombre": "Hakis S.A"
+},
+{
+  "_id": {
+    "$oid": "653ecafb157ef9072b35b6d8"
+  },
+  "id": "YSAD",
+  "nombre": "Adri S.A"
+},
+{
+  "_id": {
+    "$oid": "653ecb06157ef9072b35b6d9"
+  },
+  "id": "SUYD",
+  "nombre": "Juanka S.A"
+}]

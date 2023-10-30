@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "653ed9a1157ef9072b35b6db"
+  },
+  "codigo_pieza": {
+    "$oid": "653ec9c1157ef9072b35b6d4"
+  },
+  "id_proveedor": {
+    "$oid": "653ecaec157ef9072b35b6d7"
+  },
+  "Precio": 200
+},
+{
+  "_id": {
+    "$oid": "653ed9d5157ef9072b35b6dc"
+  },
+  "codigo_pieza": {
+    "$oid": "653ecb06157ef9072b35b6d9"
+  },
+  "id_proveedor": {
+    "$oid": "653ecafb157ef9072b35b6d8"
+  },
+  "Precio": 300
+},
+{
+  "_id": {
+    "$oid": "653eda3f157ef9072b35b6dd"
+  },
+  "codigo_pieza": {
+    "$oid": "653eca0d157ef9072b35b6d6"
+  },
+  "id_proveedor": {
+    "$oid": "653ecb06157ef9072b35b6d9"
+  },
+  "Precio": 300
+}]

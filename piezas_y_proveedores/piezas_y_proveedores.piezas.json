@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "653ec9c1157ef9072b35b6d4"
+  },
+  "Codigo": 1,
+  "Nombre": "Sofá"
+},
+{
+  "_id": {
+    "$oid": "653ec9d0157ef9072b35b6d5"
+  },
+  "Codigo": 2,
+  "Nombre": "Cama"
+},
+{
+  "_id": {
+    "$oid": "653eca0d157ef9072b35b6d6"
+  },
+  "Codigo": 3,
+  "Nombre": "Silla"
+}]

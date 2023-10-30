@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "653ea387157ef9072b35b6b5"
+  },
+  "Codigo": 1,
+  "Nombre": "Portatil",
+  "Precio": 0.5,
+  "Fabricante": {
+    "$oid": "653ea329157ef9072b35b6b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ec11d157ef9072b35b6ce"
+  },
+  "Codigo": 2,
+  "Nombre": "GTX 4070",
+  "Precio": 2.5,
+  "Fabricante": {
+    "$oid": "653ec0d5157ef9072b35b6cc"
+  }
+},
+{
+  "_id": {
+    "$oid": "653ec13e157ef9072b35b6cf"
+  },
+  "Codigo": 3,
+  "Nombre": "Movil",
+  "Precio": 500,
+  "Fabricante": {
+    "$oid": "653ec0e0157ef9072b35b6cd"
+  }
+}]
